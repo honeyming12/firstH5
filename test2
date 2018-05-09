@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>我的网页</title>
+<style type="text/css">
+a:link,a:visited{color:pink;text-decoration:none;}
+a:hover{color:blue;
+        background-color:orange;
+		font-weight:bold;
+		font-size:30px;
+		text-decoration:underline;
+		}
+a:active{color:red;
+		 }
+h2:nth-of-type(odd){color:red;}
+h2:nth-of-type(even){color:blue;}
+</style>
+</head>
+<body>
+<ul>
+     <li><a href="#one" title="送别">送别</a></li>
+	 <li><a href="#two" title="杂诗三首">杂诗三首</a></li> 
+	 <li><a href="#three" title="行宫">行宫</a></li> 
+	 <li><a href="#four" title="春晓">春晓</a></li> 
+	 <li><a href="#five" title="贾生">贾生</a></li>
+	 <li><a href="#six" title="夜雨寄北">夜雨寄北</a></li>
+</ul>
+<h2 id="one">送别</h2>
+<p>山中相送罢，日暮掩柴扉。
+春草明年绿，王孙归不归？</p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<h2 id="two">杂诗三首</h2>
+<p>君自故乡来，应知故乡事。
+来日绮窗前，寒梅著花未？</p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<h2 id="three">行宫</h2>
+<p>寥落古行宫，宫花寂寞红。
+白头宫女在，闲坐说玄宗。</p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<h2 id="four">春晓</h2>
+<p>春眠不觉晓，处处闻啼鸟。
+夜来风雨声，花落知多少。</p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<h2  id="five">贾生</h2>
+<p>宣室求贤访逐臣，贾生才调更无伦。
+可怜夜半虚前席，不问苍生问鬼神。</p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<h2 id="six">夜雨寄北</h2>
+<p>君问归期未有期，巴山夜雨涨秋池。 
+何当共剪西窗烛，却话巴山夜雨时。</p>
+</body>
+</html>
