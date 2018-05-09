@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>我的网页</title>
+<style type="text/css">
+h2{
+     color:red;
+	 font-size:20px;
+	 font-family:"楷体";
+	 }
+a:link,a:visited{
+     text-decoration:none;
+	 color:black;
+	 }
+a:hover{
+     color:red;
+	 text-decoration:underline;
+		}
+span{
+     color:red;
+}
+</style>
+</head>
+<body>
+<h2>学员感言</h2>
+<hr size="3"/>
+<ul>
+     <li><span>[网络营销]</span><a href="#">七个人不同的过往，传智成就他们的高薪梦想。一期学员真情倾述--在科技与<br/>物质如夜空烟花般的时代爱上你....</a></li>
+     <li><span>[上海传智播客]</span><a href="#">用汗水证明这是传智播客的时代</a></li>
+     <li><span>[Java培训]</span><a href="#">瓦工的程序员梦</a></li>
+     <li><span>[ios培训]</span><a href="#">ios学习之路，撑起我的成长梦想</a></li>
+     <li><span>[Java培训]</span><a href="#">催人泪下：一个电力工人转身IT的经历</a></li>
+</ul>
+</body>
+</html>
